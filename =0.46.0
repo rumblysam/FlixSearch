@@ -1,0 +1,39 @@
+- exit-hook@1.1.1 node_modules/exit-hook
+- isemail@1.2.0 node_modules/isemail
+- moment@2.18.1 node_modules/moment
+- readline2@1.0.1 node_modules/readline2
+- topo@1.1.0 node_modules/topo
+- joi@6.10.1 node_modules/joi
+FlixSearch@0.0.1 /Users/samanthasmith/Desktop/HelloReact/FlixSearch
+└─┬ react-native@0.46.1  invalid
+  ├── babel-preset-react-native@1.9.2 
+  ├─┬ inquirer@3.2.0 
+  │ ├── ansi-escapes@2.0.0 
+  │ ├─┬ chalk@2.0.1 
+  │ │ ├── ansi-styles@3.1.0 
+  │ │ └─┬ supports-color@4.2.0 
+  │ │   └── has-flag@2.0.0 
+  │ ├─┬ cli-cursor@2.1.0 
+  │ │ └─┬ restore-cursor@2.0.0 
+  │ │   ├─┬ onetime@2.0.1 
+  │ │   │ └── mimic-fn@1.1.0 
+  │ │   └── signal-exit@3.0.2 
+  │ ├─┬ external-editor@2.0.4 
+  │ │ ├── jschardet@1.4.2 
+  │ │ └── tmp@0.0.31 
+  │ ├── figures@2.0.0 
+  │ ├── mute-stream@0.0.7 
+  │ ├─┬ run-async@2.3.0 
+  │ │ └── is-promise@2.1.0 
+  │ ├── rx-lite@4.0.8 
+  │ ├── rx-lite-aggregates@4.0.8 
+  │ ├─┬ string-width@2.1.0 
+  │ │ └── is-fullwidth-code-point@2.0.0 
+  │ └─┬ strip-ansi@4.0.0 
+  │   └── ansi-regex@3.0.0 
+  ├─┬ metro-bundler@0.7.8 
+  │ ├── babel-preset-react-native@1.9.2 
+  │ ├── core-js@2.4.1 
+  │ └── lodash@4.17.4 
+  └── react-devtools-core@2.3.1 
+
