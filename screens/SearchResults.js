@@ -2,7 +2,10 @@ import React, {Component} from 'react';
 import {
     AppRegistry,
     StyleSheet,
+    ListView,
+    Text,
     View,
+    Image
 } from 'react-native';
 import {StackNavigator} from 'react-navigation';
 
