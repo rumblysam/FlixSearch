@@ -55,6 +55,4 @@ fastlane/screenshots
     .buckconfig
     .flowconfig
     .gitattributes
-    .gitignore
-    .gitingnore
     .watchmanconfig
